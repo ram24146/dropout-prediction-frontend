@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://dropout-prediction-backend-v4vg.onrender.com/api/:path*"
+    }
+  ]
+}
